@@ -4,8 +4,15 @@
         <description><![CDATA[Tommaso Minnetti's website]]></description>
         <link>https://thegrid.ai/tommaso/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 20:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 20:20:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tommaso/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>About me</p></article>]]></description>
+            <link>https://thegrid.ai/tommaso/about/index.html</link>
+            <guid isPermaLink="false">9ed153a7-70b9-47f9-bc46-6c58d7798b5b</guid>
+            <pubDate>Tue, 01 Mar 2016 20:20:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Another test post. </p>]]></description>
