@@ -1,7 +1,7 @@
 name: tommaso
 favicon: null
-layout_spectrum: 0.21972125093452632
-typography_spectrum: 0.0062757390551269054
+layout_spectrum: 0.49833
+typography_spectrum: 0.30177
 title: "Tommaso Minnetti's website"
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.6578729306347668
-  lightness: 0.2133198077790439
-  saturation: 0.14089058176614344
-  rhythmicContrast: 0.44011957687325776
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
