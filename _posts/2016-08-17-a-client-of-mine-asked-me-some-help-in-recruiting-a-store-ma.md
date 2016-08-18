@@ -8,8 +8,8 @@ description: >-
   A client of mine asked me some help in recruiting a store manager and
   marketing representative. This is a junior position, the likely candidate is a
   recent graduate with little work experience.
-datePublished: '2016-08-18T00:01:48.285Z'
-dateModified: '2016-08-17T23:57:57.445Z'
+datePublished: '2016-08-18T00:02:36.338Z'
+dateModified: '2016-08-18T00:01:57.238Z'
 title: ''
 author: []
 via: {}
