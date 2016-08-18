@@ -8,16 +8,16 @@ description: >-
   A client of mine asked me some help in recruiting a store manager and
   marketing representative. This is a junior position, the likely candidate is a
   recent graduate with little work experience.
-datePublished: '2016-08-17T23:57:16.374Z'
-dateModified: '2016-08-17T23:57:05.586Z'
+datePublished: '2016-08-18T00:01:48.285Z'
+dateModified: '2016-08-17T23:57:57.445Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-08-17-a-client-of-mine-asked-me-some-help-in-recruiting-a-store-ma.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-17-a-client-of-mine-asked-me-some-help-in-recruiting-a-store-ma.md
 url: a-client-of-mine-asked-me-some-help-in-recruiting-a-store-ma/index.html
 _type: Article
 
