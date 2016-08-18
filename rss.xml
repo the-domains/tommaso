@@ -4,8 +4,15 @@
         <description><![CDATA[Tommaso Minnetti]]></description>
         <link>https://thegrid.ai/tommaso/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 00:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 00:06:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tommaso/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8ba81166db2ec5791c88c9c1973b08488a1b481.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/tommaso/e1e8fcf9-c927-42ca-af92-0c0e7f67bdf7/index.html</link>
+            <guid isPermaLink="false">e1e8fcf9-c927-42ca-af92-0c0e7f67bdf7</guid>
+            <pubDate>Thu, 18 Aug 2016 00:06:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaff782e-1557-4113-ba77-39ca151365a6.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/tommaso/47208341-5dc0-4b84-a404-643b19bfc7bd/index.html</link>
             <guid isPermaLink="false">47208341-5dc0-4b84-a404-643b19bfc7bd</guid>
             <pubDate>Thu, 18 Aug 2016 00:04:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8ba81166db2ec5791c88c9c1973b08488a1b481.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/tommaso/e1e8fcf9-c927-42ca-af92-0c0e7f67bdf7/index.html</link>
-            <guid isPermaLink="false">e1e8fcf9-c927-42ca-af92-0c0e7f67bdf7</guid>
-            <pubDate>Thu, 18 Aug 2016 00:04:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
